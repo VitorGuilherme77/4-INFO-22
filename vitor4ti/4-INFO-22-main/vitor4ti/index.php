@@ -46,8 +46,8 @@
 		  		</ul>   		
 		   </div>
 		  </div>
-		  
-		
+		  </div>
+		  <div class="row">
 		  <div class="col-md-4 p-2">
 		    <div class="p-0 modulo verde-escuro">
 			   <h3 class="p-2"> 2_funcoes</h3>	
@@ -80,7 +80,8 @@
 				</ul>   		
 		   </div>
 		  </div>
-		 
+		  
+		   <div class="row">
 		  <div class="col-md-4 p-2">
 		    <div class="p-0 modulo verde-escuro">
 			   <h3 class="p-2"> 3_array</h3>	
@@ -90,45 +91,27 @@
 					 "?dir=3_array&file=1_array">
 					 1_funcoes</a>
 				  </li>
-
-					</ul>
-					</div>
-					</div>
-				
-			
-		  <div class="col-md-4 p-2">
-		    <div class="p-0 modulo verde-escuro">
-			   <h3 class="p-2"> 4_pdo</h3>	
-				<ul>
+				  
 				  <li>
 				     <a href=
-					 "?dir=4_pdo&file=1_pdo">
-					 1 PDO</a>
-				  </li>
-
-				<li>
-				     <a href=
-					 "?dir=4_pdo&file=2_trycatch">
-					 AlanzinhoS</a>
-				  </li>
-					
-					<li>
-				     <a href=
-					 "?dir=4_pdo&file=3_execute">AlanReinaldo</a>
+					 "?dir=3_array&file=2_associativo">
+					 2_associativo
+					 </a>
 				  </li>
 
 					</ul>
 					</div>
 					</div>
-			
+					
 		  
 		  
 		  
 		  
-		
+		  
+		  
 		<?php } ?>
 		</main>
-		 </div>
+		
 	</section>  	
 	<footer>
 		<div class="container row">
